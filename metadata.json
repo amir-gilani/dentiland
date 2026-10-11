@@ -1,0 +1,6 @@
+{
+  "name": "Dentiland - فروشگاه تخصصی بهداشت و دندانپزشکی کودکان",
+  "description": "فروشگاه آنلاین دنتیلند، مرجع تخصصی محصولات مراقبت دهان و دندان کودکان و تجهیزات بهداشت دندان با ضمانت اصالت کالا و مشاوره آنلاین.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
