@@ -1,71 +1,166 @@
 # 🦷 Dentiland | Pediatric & Family Dental Care
 
-<div align="center">
-
-![Dentiland Banner](public/assets/hero_img.png)
+\<div align="center">
 
 ### Modern E-Commerce Platform & Clinical Portal for Pediatric Oral Care
+
 **Crafted with React 19, TypeScript, Vite, and Tailwind CSS v4**
 
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-Apache--2.0-0ea5e9?style=for-the-badge)](LICENSE)
 
-[Live Demo](#-getting-started) • [Key Features](#-key-features) • [Tech Stack](#-tech-stack) • [Project Structure](#-project-structure) • [Installation](#-getting-started)
 
-</div>
+
+\
+
+
+[Preview](#-preview) • [Live Demo](#-demo) • [Key Features](#-key-features) • [Tech Stack](#-tech-stack) • [Project Structure](#-project-structure) • [Getting Started](#-getting-started)
+
+\</div>
+
+---
+
+## 👀 Preview
+
+Get a preview of the Dentiland experience, designed to make children's oral care approachable, engaging, and accessible.
+
+\<!-- Replace the image paths below with your actual screenshots. -->
+
+\<div align="center">
+
+
+
+*Dentiland — Homepage Preview*
+
+\</div>
+
+> **Note:** Add your actual website screenshots to `public/assets/` and update the image paths above. Suggested screenshots include the homepage, product catalog, product details, shopping cart, and mobile layout.
+
+---
+
+## 🚀 Demo
+
+Experience Dentiland and explore its e-commerce and clinical consultation features.
+
+\<div align="center">
+
+### 🌐 Explore Dentiland
+
+**[Visit the Live Demo](YOUR_DEPLOYED_WEBSITE_URL)**
+
+\</div>
+
+> **Note:** Replace `YOUR_DEPLOYED_WEBSITE_URL` with your actual deployed website URL, such as your Vercel, Netlify, or custom domain link.
 
 ---
 
 ## 📖 About The Project
 
-**Dentiland** is a modern, responsive e-commerce web application and clinical hub dedicated to children's oral health, dental hygiene, and orthodontics. 
+**Dentiland** is a modern, responsive e-commerce web application and clinical hub dedicated to children's oral health, dental hygiene, and orthodontics.
 
 Engineered with a child-friendly yet medically credible design language, Dentiland combines soft glassmorphism, soothing sky-blue gradients, and fluid micro-interactions to create a welcoming shopping and consultation experience for both parents and kids.
+
+The platform brings together a curated oral-care product catalog, interactive shopping tools, educational dental content, and an online consultation interface in one cohesive experience.
 
 ---
 
 ## ✨ Key Features
 
-- 📱 **Floating Pill Island Navigation:**
-  - **Mobile:** Minimalist floating bar featuring hamburger drawer trigger, brand identity, quick search, and shopping bag with dynamic badge count.
-  - **Desktop:** 3D tooth brand logo, primary navigation links, real-time live search dropdown, wishlist toggle, online consultation trigger, and shopping cart drawer opener.
-- 🎨 **Hero Section with Seamless Curved Boundary:**
-  - High-resolution pediatric dentistry illustrations and 3D character assets.
-  - Custom responsive SVG bottom curve transition that stays razor-sharp across all screen viewports without visual artifacts.
-- 🛍️ **Popular Product Categories:**
-  - 5 dedicated categories: Manual & Electric Toothbrushes, Fluoride Toothpastes, Dental Floss & Picks, Orthodontic Care, and Oral Hygiene Accessories.
-  - Horizontal snap-scroll on touch devices; 5-column grid on desktop.
-- ⭐ **Best Sellers Carousel & Product Quick-View:**
-  - Interactive product slider with next/previous controls and stock indicators.
-  - Comprehensive Product Detail modal featuring image galleries, specifications, stock status, star ratings, and one-click purchase.
-- 🛡️ **Why Dentiland? (Trust & Value Proposition):**
-  - Minimalist line-art Lucide iconography highlighting 100% authenticity guarantee, rapid hygienic delivery, specialized pediatric consultation, and 7-day hassle-free returns.
-- 🛒 **Slide-Over Shopping Cart Drawer:**
-  - Real-time cart state management, quantity increment/decrement, item removal, promo discount breakdowns, and dynamic checkout total calculation.
-- ❤️ **Wishlist Drawer / Modal:**
-  - Fast-toggle favorites system with instant "Move to Cart" capabilities.
-- 👨‍⚕️ **Online Dental Consultation Modal:**
-  - Interactive appointment booking form for parents seeking specialist dental advice.
-- 📰 **Educational Dental Articles & Blog:**
-  - Curated oral hygiene articles for parents, complete with a full-reading modal dialog.
-- 🌍 **RTL & Typography Excellence:**
-  - Full RTL (Right-to-Left) layout support powered by Google's Vazirmatn font for clean Persian/Arabic typography.
+### 🧭 Floating Pill Island Navigation
+
+- **Mobile Navigation:** A minimalist floating bar featuring a hamburger drawer trigger, brand identity, quick search, and a shopping bag with a dynamic item count.
+- **Desktop Navigation:** A 3D tooth brand logo, primary navigation links, live search dropdown, wishlist toggle, online consultation trigger, and shopping cart drawer opener.
+
+### 🎨 Hero Section with Seamless Curved Boundary
+
+- High-resolution pediatric dentistry illustrations and 3D character assets.
+- Custom responsive SVG bottom curve transition.
+- Smooth visual transitions that adapt to different screen sizes.
+- Friendly, modern visual identity tailored to pediatric oral care.
+
+### 🛍️ Popular Product Categories
+
+Five dedicated product categories:
+
+1. Manual & Electric Toothbrushes
+2. Fluoride Toothpastes
+3. Dental Floss & Picks
+4. Orthodontic Care
+5. Oral Hygiene Accessories
+
+- Horizontal snap-scroll on touch devices.
+- Responsive five-column grid on desktop.
+
+### ⭐ Best Sellers Carousel & Product Quick View
+
+- Interactive product slider with next and previous controls.
+- Product availability and stock indicators.
+- Product detail modal with image galleries, specifications, stock status, and star ratings.
+- Quick-add-to-cart functionality.
+
+### 🛡️ Why Dentiland? — Trust & Value Proposition
+
+A dedicated section highlighting the brand's core values:
+
+- Product authenticity commitment.
+- Fast and hygienic delivery.
+- Specialized pediatric dental consultation.
+- Seven-day hassle-free return policy.
+
+### 🛒 Slide-Over Shopping Cart
+
+- Real-time cart state management.
+- Quantity increment and decrement controls.
+- Item removal functionality.
+- Promotional discount breakdown.
+- Dynamic subtotal and checkout total calculations.
+
+### ❤️ Wishlist Management
+
+- Save favorite products for later.
+- Quickly toggle wishlist items.
+- Move saved products directly to the shopping cart.
+- Manage saved items through an interactive drawer or modal.
+
+### 👨‍⚕️ Online Dental Consultation
+
+- Interactive appointment booking form.
+- Parent-friendly consultation request interface.
+- Dedicated modal for submitting appointment details.
+
+### 📰 Educational Dental Articles & Blog
+
+- Curated dental hygiene articles for parents.
+- Educational content focused on children's oral health.
+- Full-reading modal for individual articles.
+- Accessible presentation of dental care tips.
+
+### 🌍 RTL & Typography Excellence
+
+- Right-to-left layout support for Persian and Arabic interfaces.
+- Google Fonts Vazirmatn integration.
+- Readable typography with weights ranging from 300 to 900.
+- Responsive layouts designed for both RTL and LTR content.
+
+### 📱 Responsive Design
+
+- Mobile-first interface architecture.
+- Adaptive layouts for mobile, tablet, and desktop.
+- Touch-friendly controls and interactive components.
+- Consistent visual styling across screen sizes.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| **React 19** | Modern UI component hierarchy & reactive state management |
-| **TypeScript** | Type safety, maintainability, and clean code architecture |
-| **Vite 6** | Ultra-fast local development server and optimized build bundling |
-| **Tailwind CSS v4** | Modern CSS-first utility styling and responsive layouts |
-| **Lucide React** | Consistent, lightweight SVG icon system |
-| **Vazirmatn** | High-legibility web typography optimized for RTL text |
+| Technology          | Purpose                                                          |
+| ------------------- | ---------------------------------------------------------------- |
+| **React 19**        | Component-based UI and reactive state management                 |
+| **TypeScript**      | Type safety and maintainable application architecture            |
+| **Vite 6**          | Fast development server and optimized production builds          |
+| **Tailwind CSS v4** | Utility-first styling and responsive layouts                     |
+| **Lucide React**    | Lightweight, consistent SVG iconography                          |
+| **Vazirmatn**       | Typography optimized for Persian and RTL interfaces              |
+| **HTML5**           | Semantic application structure                                   |
+| **CSS3**            | Custom styling, transitions, animations, and responsive behavior |
 
 ---
 
@@ -74,33 +169,39 @@ Engineered with a child-friendly yet medically credible design language, Dentila
 ```text
 dentiland/
 ├── public/
-│   ├── assets/                 # High-res product images, category icons & banners
-│   └── dentiland-source.zip    # Pre-packaged source archive
+│   ├── assets/
+│   │   ├── preview-homepage.png
+│   │   └── ...
+│   └── dentiland-source.zip
 ├── src/
 │   ├── components/
-│   │   ├── ArticleModal.tsx       # Full educational article reading dialog
-│   │   ├── Articles.tsx           # Blog and dental tips showcase section
-│   │   ├── BestSellers.tsx        # Best-selling products slider and grid
-│   │   ├── CartDrawer.tsx         # Slide-over shopping cart with checkout summary
-│   │   ├── Categories.tsx         # Product category quick navigation
-│   │   ├── ConsultationModal.tsx  # Appointment booking and consultation form
-│   │   ├── Footer.tsx             # Clinical credentials, links & contact info
-│   │   ├── Header.tsx             # Floating pill navigation (mobile & desktop)
-│   │   ├── Hero.tsx               # Hero showcase with custom curved SVG transition
-│   │   ├── ProductDetailModal.tsx # Full product specification & gallery modal
-│   │   ├── Reviews.tsx            # Patient and parent testimonials
-│   │   ├── WhyDentiland.tsx       # Brand advantages with minimalist iconography
-│   │   └── WishlistModal.tsx      # Saved items management modal
+│   │   ├── ArticleModal.tsx
+│   │   ├── Articles.tsx
+│   │   ├── BestSellers.tsx
+│   │   ├── CartDrawer.tsx
+│   │   ├── Categories.tsx
+│   │   ├── ConsultationModal.tsx
+│   │   ├── Footer.tsx
+│   │   ├── Header.tsx
+│   │   ├── Hero.tsx
+│   │   ├── ProductDetailModal.tsx
+│   │   ├── Reviews.tsx
+│   │   ├── WhyDentiland.tsx
+│   │   └── WishlistModal.tsx
 │   ├── data/
-│   │   └── dentilandData.ts       # Products, categories, blog posts & review mock data
-│   ├── App.tsx                    # Core application layout & unified state handler
-│   ├── index.css                  # Global styles, Tailwind imports, and font settings
-│   └── main.tsx                   # React root entry point
-├── index.html                     # HTML5 template with SEO meta tags & RTL attributes
-├── package.json                   # Project scripts and dependencies
-├── tsconfig.json                  # TypeScript compiler configuration
-└── vite.config.ts                 # Vite bundler configuration
+│   │   └── dentilandData.ts
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+├── index.html
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+├── LICENSE
+└── README.md
 ```
+
+> This structure reflects the documented project layout. Some files or directories may differ in your actual repository.
 
 ---
 
@@ -108,58 +209,170 @@ dentiland/
 
 ### Prerequisites
 
-Ensure you have the following installed on your machine:
-- **Node.js**: `v18.0.0` or higher
-- **npm**, **yarn**, or **pnpm**
+Make sure you have the following installed:
 
-### Local Setup
+- **Node.js:** Version 18.0.0 or higher, subject to the requirements of your installed dependencies.
+- **npm**, **yarn**, or **pnpm**.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/dentiland.git
-   cd dentiland
-   ```
+### Installation
 
-2. **Install project dependencies:**
-   ```bash
-   npm install
-   ```
+**1. Clone the repository**
 
-3. **Start the local development server:**
-   ```bash
-   npm run dev
-   ```
-   Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+Replace the example URL with your actual GitHub repository URL.
 
-4. **Build for production:**
-   ```bash
-   npm run build
-   ```
-   The production-ready assets will be generated in the `dist/` directory.
+```bash
+git clone https://github.com/your-username/dentiland.git
+cd dentiland
+```
 
-5. **Preview the production build locally:**
-   ```bash
-   npm run preview
-   ```
+**2. Install dependencies**
+
+```bash
+npm install
+```
+
+**3. Start the development server**
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal. Vite commonly uses `http://localhost:5173/` by default, unless the project has been configured to use a different port.
+
+**4. Build for production**
+
+```bash
+npm run build
+```
+
+The production-ready files will be generated in the `dist/` directory.
+
+**5. Preview the production build**
+
+```bash
+npm run preview
+```
+
+Open the local URL displayed in the terminal to inspect the production build.
 
 ---
 
-## 🎨 Design System & Palette
+## 🎨 Design System & Color Palette
 
-- **Primary Clinical Blue:** `#006591` / `#0ea5e9`
-- **Soft Backgrounds:** `#faf8ff` / `#e0f2fe`
-- **Surface Elevation:** `bg-white/95 backdrop-blur-xl`
-- **Typography:** Vazirmatn (Font weights: 300 to 900)
-- **Border Radius Philosophy:** Organic rounded elements (`rounded-2xl`, `rounded-3xl`, `rounded-full`)
+### Primary Colors
+
+| Design Token  | Color     | Usage                               |
+| ------------- | --------- | ----------------------------------- |
+| Clinical Blue | `#006591` | Primary brand color                 |
+| Sky Blue      | `#0EA5E9` | Highlights and interactive elements |
+| Soft Lavender | `#FAF8FF` | Light background surfaces           |
+| Ice Blue      | `#E0F2FE` | Soft section backgrounds            |
+| White         | `#FFFFFF` | Cards and elevated surfaces         |
+
+### Visual Principles
+
+- **Glassmorphism:** Translucent white surfaces with backdrop blur.
+- **Organic Shapes:** Rounded cards, pills, and modal corners.
+- **Soft Gradients:** Blue gradients for a calm, welcoming atmosphere.
+- **Typography:** Vazirmatn with font weights ranging from 300 to 900.
+- **Micro-interactions:** Smooth transitions and subtle hover feedback.
+- **Responsive Spacing:** Consistent spacing across screen sizes.
+
+---
+
+## ♿ Accessibility & User Experience
+
+Dentiland's interface is designed with usability in mind.
+
+- Clear visual hierarchy and readable typography.
+- Touch-friendly interactive controls.
+- Responsive navigation for different screen sizes.
+- Direction-aware layouts for RTL content.
+- Consistent iconography and visual feedback.
+
+> Accessibility features should be verified against the actual implementation, including keyboard navigation, focus management, color contrast, and screen-reader behavior.
+
+---
+
+## 🔐 Security & Production Considerations
+
+Before deploying Dentiland to production, consider the following:
+
+- Validate and sanitize user-submitted form data.
+- Protect any backend endpoints and private credentials.
+- Integrate a secure payment provider if online payments are required.
+- Use HTTPS for deployed environments.
+- Add appropriate privacy notices and consent handling for consultation forms.
+- Verify product availability and pricing against a reliable data source.
+- Test cart, wishlist, and appointment flows across devices.
+
+---
+
+## 🚢 Deployment
+
+Dentiland can be deployed to a static hosting platform that supports Vite applications.
+
+### Build the application
+
+```bash
+npm run build
+```
+
+### Deployment options
+
+- **Vercel:** Connect your GitHub repository and configure the build command as `npm run build` and output directory as `dist`.
+- **Netlify:** Connect your repository and configure the same build command and publish directory.
+- **Custom Hosting:** Upload the contents of the generated `dist/` directory to a web server configured to serve a single-page application.
+
+For client-side routing, configure the hosting platform to serve `index.html` for application routes when required.
+
+---
+
+## 🗺️ Roadmap
+
+Potential future enhancements include:
+
+- [ ] Backend integration for products and inventory.
+- [ ] User authentication and account management.
+- [ ] Persistent shopping cart and wishlist.
+- [ ] Secure payment gateway integration.
+- [ ] Appointment scheduling and confirmation notifications.
+- [ ] Product reviews and verified purchase ratings.
+- [ ] Advanced search, filtering, and sorting.
+- [ ] Automated testing and continuous integration.
+- [ ] Improved accessibility testing and optimization.
+- [ ] Multilingual support for Persian, Arabic, and English.
+
+---
+
+## 🤝 Contributing
+
+Contributions, ideas, and suggestions are welcome.
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes with a descriptive message.
+4. Push your branch.
+5. Open a pull request describing your changes.
+
+Please ensure that your changes are tested and follow the project's existing conventions.
 
 ---
 
 ## 📄 License
 
-Distributed under the **Apache-2.0 License**. See [LICENSE](LICENSE) for more details.
+This project is distributed under the **Apache License 2.0**.
+
+See the [LICENSE](LICENSE) file for the complete license text.
 
 ---
 
-<div align="center">
-Made with care for healthier, happier smiles.
-</div>
+\<div align="center">
+
+### 🦷 Dentiland
+
+**Made with care for healthier, happier smiles.**
+
+*Making children's oral care a brighter experience.*
+
+\</div>
