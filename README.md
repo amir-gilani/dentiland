@@ -30,16 +30,6 @@
 
 ---
 
-## 🚀 Demo
-
-Experience Dentiland and explore its e-commerce and clinical consultation features.
-
-**[🌐 View Live Demo](YOUR_DEPLOYED_WEBSITE_URL)**
-
-> Replace `YOUR_DEPLOYED_WEBSITE_URL` with the URL of your deployed website.
-
----
-
 ## 📖 About The Project
 
 **Dentiland** is a modern, responsive e-commerce web application and clinical hub dedicated to children's oral health, dental hygiene, and orthodontics.
