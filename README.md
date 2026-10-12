@@ -20,9 +20,13 @@
 
 ## 👀 Preview
 
-Take a closer look at Dentiland's modern, responsive interface, designed to make children's oral care simple, engaging, and accessible.
+<div align="center">
 
-Explore the website's design, product categories, interactive shopping experience, and dental care resources.
+<img src="./public/assets/screen.png" alt="Dentiland Website Preview" width="100%" />
+
+<p><em>Dentiland — Website Preview</em></p>
+
+</div>
 
 ---
 
