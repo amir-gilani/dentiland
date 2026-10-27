@@ -188,12 +188,6 @@ Open the local URL displayed in the terminal to inspect the production build.
 
 ---
 
-## 📄 License
-
-Distributed under the **Apache-2.0 License**. See [LICENSE](LICENSE) for more details.
-
----
-
 <div align="center">
 
 **Made with care for healthier, happier smiles.**
